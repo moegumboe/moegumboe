@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I went to the second city in Chicago**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
