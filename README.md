@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about cryptocurrency **Java**
+- 💬 Ask me about **Java**
 
 - 📫Drop me an email **moekhan343@gmail.com**
 
