@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moegumboe" alt="moegumboe" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Playwright/C#**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java/C#**
 
 - 📫Drop me an email **moekhan343@gmail.com**
 
